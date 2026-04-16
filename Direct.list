@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+DOMAIN-SUFFIX,tracker.m-team.io
+DOMAIN-SUFFIX,tracker.hhanclub.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
