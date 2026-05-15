@@ -9,8 +9,16 @@ DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,tracker.m-team.io
 DOMAIN-SUFFIX,tracker.hhanclub.net
+DOMAIN-SUFFIX,tracker.hhan.club
+DOMAIN-SUFFIX,tracker.hdsky.me
+DOMAIN-SUFFIX,tracker.rainbowisland.co
+DOMAIN-SUFFIX,tracker.ptchdbits.co
+DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,tracker.cinefiles.info
 DOMAIN-SUFFIX,t.audiences.me
+DOMAIN-SUFFIX,t.pthome.net
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,chdbits.xyz
 DOMAIN-SUFFIX,157447566.xyz
 
 # 域名关键字匹配
