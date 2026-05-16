@@ -8,8 +8,8 @@ DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,tracker.m-team.io
-DOMAIN-SUFFIX,tracker.hhanclub.net
-DOMAIN-SUFFIX,tracker.hhan.club
+#DOMAIN-SUFFIX,tracker.hhanclub.net
+#DOMAIN-SUFFIX,tracker.hhan.club
 DOMAIN-SUFFIX,tracker.hdsky.me
 DOMAIN-SUFFIX,tracker.rainbowisland.co
 DOMAIN-SUFFIX,tracker.ptchdbits.co
