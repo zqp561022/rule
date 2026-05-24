@@ -7,6 +7,11 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+
+#小米
+DOMAIN-SUFFIX,market.xiaomi.com
+
+#PT站点
 DOMAIN-SUFFIX,tracker.m-team.io
 #DOMAIN-SUFFIX,tracker.hhanclub.net
 #DOMAIN-SUFFIX,tracker.hhan.club
@@ -23,6 +28,8 @@ DOMAIN-SUFFIX,tracker.m-team.io
 #DOMAIN-SUFFIX,chdbits.xyz
 #DOMAIN-SUFFIX,audiences.me
 #DOMAIN-SUFFIX,hdsky.me
+
+#自定义
 DOMAIN-SUFFIX,157447566.xyz
 
 # 域名关键字匹配
