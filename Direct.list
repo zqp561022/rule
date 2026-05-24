@@ -1,5 +1,35 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# 局域网/本地域名（必须直连）
+DOMAIN-SUFFIX,.lan
+DOMAIN-SUFFIX,.local
+DOMAIN-SUFFIX,.localdomain
+DOMAIN-SUFFIX,.home.arpa
+
+# NTP/时间同步服务
+DOMAIN-SUFFIX,time.*.com
+DOMAIN-SUFFIX,ntp.*.com
+DOMAIN-SUFFIX,.ntp.org
+DOMAIN-SUFFIX,.pool.ntp.org
+
+# STUN/TURN 服务（P2P 打洞）
+DOMAIN-SUFFIX,.stun.*.*
+DOMAIN-SUFFIX,.stun.*.*.*
+DOMAIN-SUFFIX,stun.l.google.com
+DOMAIN-SUFFIX,.stun.playstation.net
+
+# Docker 相关（避免拉取失败）
+DOMAIN-SUFFIX,auth.docker.io
+DOMAIN-SUFFIX,registry-1.docker.io
+DOMAIN-SUFFIX,index.docker.io
+DOMAIN-SUFFIX,hub.docker.com
+DOMAIN-SUFFIX,production.cloudflare.docker.com
+
+# 跳过嗅探但需直连的域名（来自 skip-domain）
+DOMAIN-SUFFIX,dlg.io.mi.com
+DOMAIN-SUFFIX,.push.apple.com
+DOMAIN-SUFFIX,.apple.com
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
