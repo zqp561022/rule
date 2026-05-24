@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 
 #小米
 DOMAIN-SUFFIX,market.xiaomi.com
+DOMAIN-SUFFIX,miwifi.com
 
 #PT站点
 DOMAIN-SUFFIX,tracker.m-team.io
