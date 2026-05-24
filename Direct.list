@@ -69,6 +69,23 @@ DOMAIN-KEYWORD,hhanclub
 #DOMAIN-KEYWORD,pthome
 DOMAIN-KEYWORD,tracker
 
+#steam下载相关的域名走直连
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steampipe-partner.akamaized.net
+DOMAIN,steampipe-kr.akamaized.net
+DOMAIN-SUFFIX,wmsjsteam.com
+DOMAIN-SUFFIX,steamchina.com
+DOMAIN-SUFFIX,8686c.com
+DOMAIN,client-update.queniuqe.com
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,dl.steam.ksyna.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.pinyuncloud.com
+
 
 # 360
 DOMAIN-SUFFIX,360.com
