@@ -43,25 +43,31 @@ DOMAIN-SUFFIX,market.xiaomi.com
 DOMAIN-SUFFIX,miwifi.com
 
 #PT站点
-DOMAIN-SUFFIX,tracker.m-team.io
-#DOMAIN-SUFFIX,tracker.hhanclub.net
-#DOMAIN-SUFFIX,tracker.hhan.club
-#DOMAIN-SUFFIX,tracker.hdsky.me
-#DOMAIN-SUFFIX,tracker.rainbowisland.co
-#DOMAIN-SUFFIX,tracker.ptchdbits.co
-#DOMAIN-SUFFIX,hhanclub.top
-#DOMAIN-SUFFIX,hhanclub.net
-#DOMAIN-SUFFIX,tracker.cinefiles.info
-#DOMAIN-SUFFIX,t.audiences.me
-#DOMAIN-SUFFIX,t.pthome.net
-#DOMAIN-SUFFIX,t.pthome.org
-#DOMAIN-SUFFIX,pthome.net
-#DOMAIN-SUFFIX,chdbits.xyz
-#DOMAIN-SUFFIX,audiences.me
-#DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,hhanclub.net
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,pthome.org
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,chdbits.xyz
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,star-space.net
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdarea.club
+
+DOMAIN-SUFFIX,stor.picx.cx
+DOMAIN-SUFFIX,superbed.cc
+DOMAIN-SUFFIX,sda1.dev
+DOMAIN-SUFFIX,uuu.ovh
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,tupian.li
 
 #自定义
 DOMAIN-SUFFIX,157447566.xyz
+DOMAIN-SUFFIX,353355.xyz
+DOMAIN-SUFFIX,smzdk.top
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
