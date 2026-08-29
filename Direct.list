@@ -7,23 +7,30 @@ DOMAIN-SUFFIX,.localdomain
 DOMAIN-SUFFIX,.home.arpa
 
 # NTP/时间同步服务
-DOMAIN-SUFFIX,time.*.com
-DOMAIN-SUFFIX,ntp.*.com
 DOMAIN-SUFFIX,.ntp.org
 DOMAIN-SUFFIX,.pool.ntp.org
+DOMAIN-SUFFIX,.time.windows.com
+DOMAIN-SUFFIX,.time1.aliyun.com
+DOMAIN-SUFFIX,.time2.aliyun.com
+DOMAIN-SUFFIX,.ntp.aliyun.com
+DOMAIN-SUFFIX,.time.tencent.com
+DOMAIN-SUFFIX,.ntp.tencent.com
+DOMAIN-SUFFIX,.cn.pool.ntp.org
+
 
 # STUN/TURN 服务（P2P 打洞）
-DOMAIN-SUFFIX,.stun.*.*
-DOMAIN-SUFFIX,.stun.*.*.*
 DOMAIN-SUFFIX,stun.l.google.com
 DOMAIN-SUFFIX,.stun.playstation.net
+DOMAIN-SUFFIX,.stun.cloudflare.com
+DOMAIN-SUFFIX,.stun.qq.com
+DOMAIN-SUFFIX,.stun.miwifi.com
 
 # Docker 相关（避免拉取失败）
-DOMAIN-SUFFIX,auth.docker.io
-DOMAIN-SUFFIX,registry-1.docker.io
-DOMAIN-SUFFIX,index.docker.io
-DOMAIN-SUFFIX,hub.docker.com
-DOMAIN-SUFFIX,production.cloudflare.docker.com
+# DOMAIN-SUFFIX,auth.docker.io
+# DOMAIN-SUFFIX,registry-1.docker.io
+# DOMAIN-SUFFIX,index.docker.io
+# DOMAIN-SUFFIX,hub.docker.com
+# DOMAIN-SUFFIX,production.cloudflare.docker.com
 
 # 跳过嗅探但需直连的域名（来自 skip-domain）
 DOMAIN-SUFFIX,dlg.io.mi.com
@@ -71,8 +78,8 @@ DOMAIN-SUFFIX,smzdk.top
 DOMAIN-SUFFIX,immersivetranslate.cn
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,mirror
-DOMAIN-KEYWORD,ghp
+# DOMAIN-KEYWORD,mirror
+# DOMAIN-KEYWORD,ghp
 DOMAIN-KEYWORD,hhanclub
 #DOMAIN-KEYWORD,pthome
 DOMAIN-KEYWORD,tracker
