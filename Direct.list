@@ -50,8 +50,9 @@ DOMAIN-SUFFIX,market.xiaomi.com
 DOMAIN-SUFFIX,miwifi.com
 
 #PT站点
-DOMAIN-SUFFIX,hhanclub.top
-DOMAIN-SUFFIX,hhanclub.net
+# DOMAIN-SUFFIX,hhanclub.top
+# DOMAIN-SUFFIX,hhanclub.net
+DOMAIN,tracker.hhanclub.net
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,pthome.org
 DOMAIN-SUFFIX,pthome.net
