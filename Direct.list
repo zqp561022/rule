@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,market.xiaomi.com
 DOMAIN-SUFFIX,miwifi.com
 
 #PT站点
+DOMAIN-KEYWORD,tracker
 # DOMAIN-SUFFIX,hhanclub.top
 # DOMAIN-SUFFIX,hhanclub.net
 DOMAIN,tracker.hhanclub.net
@@ -82,9 +83,9 @@ DOMAIN-SUFFIX,immersivetranslate.cn
 # 域名关键字匹配
 # DOMAIN-KEYWORD,mirror
 # DOMAIN-KEYWORD,ghp
-DOMAIN-KEYWORD,hhanclub
-#DOMAIN-KEYWORD,pthome
-DOMAIN-KEYWORD,tracker
+# DOMAIN-KEYWORD,hhanclub
+# DOMAIN-KEYWORD,pthome
+
 
 #steam下载相关的域名走直连
 DOMAIN-SUFFIX,steamcontent.com
