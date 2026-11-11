@@ -1,29 +1,29 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 局域网/本地域名（必须直连）
-DOMAIN-SUFFIX,.lan
-DOMAIN-SUFFIX,.local
-DOMAIN-SUFFIX,.localdomain
-DOMAIN-SUFFIX,.home.arpa
+DOMAIN-SUFFIX,lan
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,localdomain
+DOMAIN-SUFFIX,home.arpa
 
 # NTP/时间同步服务
-DOMAIN-SUFFIX,.ntp.org
-DOMAIN-SUFFIX,.pool.ntp.org
-DOMAIN-SUFFIX,.time.windows.com
-DOMAIN-SUFFIX,.time1.aliyun.com
-DOMAIN-SUFFIX,.time2.aliyun.com
-DOMAIN-SUFFIX,.ntp.aliyun.com
-DOMAIN-SUFFIX,.time.tencent.com
-DOMAIN-SUFFIX,.ntp.tencent.com
-DOMAIN-SUFFIX,.cn.pool.ntp.org
+DOMAIN-SUFFIX,ntp.org
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,time1.aliyun.com
+DOMAIN-SUFFIX,time2.aliyun.com
+DOMAIN-SUFFIX,ntp.aliyun.com
+DOMAIN-SUFFIX,time.tencent.com
+DOMAIN-SUFFIX,ntp.tencent.com
+DOMAIN-SUFFIX,cn.pool.ntp.org
 
 
 # STUN/TURN 服务（P2P 打洞）
 DOMAIN-SUFFIX,stun.l.google.com
-DOMAIN-SUFFIX,.stun.playstation.net
-DOMAIN-SUFFIX,.stun.cloudflare.com
-DOMAIN-SUFFIX,.stun.qq.com
-DOMAIN-SUFFIX,.stun.miwifi.com
+DOMAIN-SUFFIX,stun.playstation.net
+DOMAIN-SUFFIX,stun.cloudflare.com
+DOMAIN-SUFFIX,stun.qq.com
+DOMAIN-SUFFIX,stun.miwifi.com
 
 # Docker 相关（避免拉取失败）
 # DOMAIN-SUFFIX,auth.docker.io
@@ -34,14 +34,13 @@ DOMAIN-SUFFIX,.stun.miwifi.com
 
 # 跳过嗅探但需直连的域名（来自 skip-domain）
 DOMAIN-SUFFIX,dlg.io.mi.com
-DOMAIN-SUFFIX,.push.apple.com
-DOMAIN-SUFFIX,.apple.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,apple.com
 
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,msftcomecttest.com
+DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 
@@ -380,7 +379,6 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,smtcdns.com
-DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencent.com
@@ -441,7 +439,6 @@ DOMAIN-SUFFIX,51cto.com
 DOMAIN-SUFFIX,51job.com
 DOMAIN-SUFFIX,51jobcdn.com
 DOMAIN-SUFFIX,56.com
-DOMAIN-SUFFIX,8686c.com
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abercrombie.com
 DOMAIN-SUFFIX,acfun.tv
